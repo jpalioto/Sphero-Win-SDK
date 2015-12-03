@@ -9,6 +9,14 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+
+# keys
 samples/BasicDriveAppWin81/BasicDriveApp/BasicDriveApp_TemporaryKey.pfx
 samples/BasicDriveAppWin10/SpheroWin10/SpheroWin10_TemporaryKey.pfx
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
