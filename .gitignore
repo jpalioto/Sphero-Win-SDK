@@ -1,3 +1,14 @@
-[Bb]in
-[Oo]bj
-samples/BasicDriveApp/BasicDriveApp_TemporaryKey.pfx
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+samples/BasicDriveAppWin81/BasicDriveApp/BasicDriveApp_TemporaryKey.pfx
+samples/BasicDriveAppWin10/SpheroWin10/SpheroWin10_TemporaryKey.pfx
+
